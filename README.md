@@ -1,2 +1,3 @@
-# CodingTestStudy
-GNU CTS
+# :fire:CodingTest Study
+
+## 
